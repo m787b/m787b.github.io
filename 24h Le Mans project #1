@@ -17,9 +17,9 @@
             <header>
                 <nav>
                     <ul>
-                        <li>Contact</li>
-                        <li>Tickets</li>
-                        <li>Experience</li>
+                        <li><a href="" target="_blank">Contact</a></li>
+                        <li><a href="" target="_blank">Tickets</a></li>
+                        <li><a href="" target="_blank">Experience</a></li>
                     </ul>
                 </nav>
             </header>
